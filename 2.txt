@@ -1,0 +1,1 @@
+πFirstname,Lastname(Persons⋈Person_ID=Person_ID σRuntime>150∨Budget>200000000(Movies⋈Movie_ID=Movie_ID PersonsMovies))

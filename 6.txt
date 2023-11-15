@@ -1,0 +1,1 @@
+π Title(Movies-σ MovieID≠SequelOf∧SequelOf≠NULL(Movies⋈(ρ SequelOf(Movies))))

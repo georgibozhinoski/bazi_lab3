@@ -1,0 +1,1 @@
+πTitle(σ(Firstname='James' ∧ Lastname='Cameron') (Persons ⨝ Person_ID=Person_ID PersonsMovies) ⨝ (Movie_ID = Movie_ID) (σ(Runtime<120 ∨ Runtime>180) Movies))

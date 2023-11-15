@@ -1,0 +1,9 @@
+Movies={MovieID:number, Title:string, ReleaseDate:daate, Genre_ID:number,
+ Budget:number,OpeningWeek:date, Profit:number, Runtime:number,
+ Certificate:string, SequelOf:number, Distribution:string}
+ 
+ Genres={Genre_ID:number, Name:string}
+ 
+Persons={Person_ID:number, Firstname:string, Lastname:string}  
+
+PersonsMovies={Person_ID:number, Movie_ID:number, Role:string}
